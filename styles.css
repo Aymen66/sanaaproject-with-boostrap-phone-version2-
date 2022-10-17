@@ -311,4 +311,18 @@ body {
 		margin: 10px 5px 0px 5px;
 		border-radius: 10%;
 	}
+	.dance:hover {
+	transform: scale(1.0);
+	z-index: 2;
+}
+
+.dar:hover {
+	transform: scale(1.0);
+	z-index: 2;
+}
+
+.market:hover {
+	transform: scale(1.0);
+	z-index: 2;
+}
 }
